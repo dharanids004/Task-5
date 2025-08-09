@@ -1,0 +1,7 @@
+Date,Product,Region,Quantity,UnitPrice,Sales
+2025-01-31,Apple,North,10,100,1000
+2025-02-28,Banana,South,5,150,750
+2025-03-31,Apple,East,7,100,700
+2025-04-30,Carrot,West,8,200,1600
+2025-05-31,Banana,North,6,150,900
+2025-06-30,Carrot,East,9,200,1800
