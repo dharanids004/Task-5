@@ -1,4 +1,4 @@
-This project analyzes sales data using Python, Pandas, and Matplotlib to gain insights into sales performance.
+His project analyzes sales data using Python, Pandas, and Matplotlib to gain insights into sales performance.
 
 📁 Files in this Repository
 data_analysis_template.ipynb → Jupyter Notebook with code and visualizations
@@ -25,4 +25,4 @@ Install all requirements with:
 
 pip install -r requirements.txt
 📜 License
-This project is licensed under the MIT License
+This project is licensed under the MIT License.
